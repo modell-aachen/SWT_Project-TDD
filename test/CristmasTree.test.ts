@@ -1,6 +1,6 @@
-import { HelloWorld } from "../src/HelloWorld";
+import { HelloWorld } from '../src/HelloWorld';
 
-describe("The Hello World project", () => {
+describe('The christmas tree function', () => {
     it('says Hello World', () => {
         const helloWorld = new HelloWorld();
 
