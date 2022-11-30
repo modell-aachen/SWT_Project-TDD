@@ -1,5 +1,5 @@
 export class HelloWorld {
-    helloWorld() {
+    helloWorld (): string {
         return 'Hello World';
     }
 }
